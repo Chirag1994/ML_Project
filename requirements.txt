@@ -1,0 +1,11 @@
+numpy
+scikit-learn
+Flask
+gunicorn
+pandas
+PyYAML
+evidently
+joblib
+matplotlib
+black
+-e .
